@@ -13,6 +13,7 @@
 		D4347DA2292B60E20082F154 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4347DA0292B60E20082F154 /* Main.storyboard */; };
 		D4347DA4292B60E40082F154 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4347DA3292B60E40082F154 /* Assets.xcassets */; };
 		D4347DA7292B60E40082F154 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4347DA5292B60E40082F154 /* LaunchScreen.storyboard */; };
+		D4347DB3292DB8D60082F154 /* Restaurants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4347DB2292DB8D60082F154 /* Restaurants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D4347DA3292B60E40082F154 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4347DA6292B60E40082F154 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4347DA8292B60E40082F154 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4347DB2292DB8D60082F154 /* Restaurants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		D4347D99292B60E20082F154 /* Hackwich11 */ = {
 			isa = PBXGroup;
 			children = (
+				D4347DB2292DB8D60082F154 /* Restaurants.swift */,
 				D4347D9A292B60E20082F154 /* AppDelegate.swift */,
 				D4347D9C292B60E20082F154 /* SceneDelegate.swift */,
 				D4347D9E292B60E20082F154 /* ViewController.swift */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4347DB3292DB8D60082F154 /* Restaurants.swift in Sources */,
 				D4347D9F292B60E20082F154 /* ViewController.swift in Sources */,
 				D4347D9B292B60E20082F154 /* AppDelegate.swift in Sources */,
 				D4347D9D292B60E20082F154 /* SceneDelegate.swift in Sources */,
